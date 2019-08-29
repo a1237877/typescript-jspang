@@ -19,4 +19,10 @@ node vue react 等都可以用typescript
 2. 函数定义 function.ts
 3. 函数定义方式 function-define.ts
 4. 函数的变量作用域 domain.ts
-5. 引用类型 -数组 
+5. 引用类型 -数组  array.ts
+6. 引用类型 -字符串 string.ts 
+7. 引用类型 -Date date.ts
+8. 引用类型 -正则 regExp.ts
+9. 面对对象编程 -类的声明使用 class.ts
+10. 面对对象编程 -类的修饰符 classDecoration.ts
+11. 面对对象编程 -继承和重写 jicheng.ts
